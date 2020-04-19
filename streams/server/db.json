@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "this is a test stream",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "testing stream 2 with user id",
+      "userId": "118012099097689805592",
+      "id": 2
+    },
+    {
+      "title": "...stream form",
+      "description": "after refactoring...",
+      "userId": "118012099097689805592",
+      "id": 5
+    },
+    {
+      "title": "test delete",
+      "description": "tsting delete stream functinality",
+      "userId": "118012099097689805592",
+      "id": 6
+    }
+  ]
+}
