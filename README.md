@@ -1,1 +1,1 @@
-# react samples from Udemy course
+# react samples
