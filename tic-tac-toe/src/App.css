@@ -1,0 +1,13 @@
+.board {
+  display: grid;
+  grid-template-columns: 50px 50px 50px;
+}
+
+.square {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  min-width: 20px;
+  min-height: 20px;
+  cursor: pointer;
+}
